@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://uploads-ssl.webflow.com/5a9423a3f702750001758d4f/60eee628c6468d7ea4a3374d_%233FE0D0%20(1).png");
+
+}
+.header{
+    color:rgb(226, 32, 32);
+    text-align: center;
+    opacity: 0.80;
+}
+table {
+    margin: 0px auto;
+}
+.td{
+    background-color: red;
+    font-size: x-large;
+}
+.do-not-read{
+    text-align: center;
+    color:gray;
+    opacity: 0.50;
+}
